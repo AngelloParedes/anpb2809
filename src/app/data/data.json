@@ -1,0 +1,117 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "description": "Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor.",
+      "genre": "Comedy",
+      "score": 5
+    },
+    {
+      "id": 2,
+      "title": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "genre": "Fiction",
+      "score": 4
+    },
+    {
+      "id": 3,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+      "genre": "Drama",
+      "score": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Hereditary",
+      "description": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.",
+      "genre": "Horror",
+      "score": 4.3
+    },
+    {
+      "id": 5,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-shering technology is given the inverse task of planting an idea into the mind of a C.E.O",
+      "genre": "Action",
+      "score": 4
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "genre": "Fiction",
+      "score": 3.8
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "description": "The lives of tow mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+      "genre": "Crime",
+      "score": 4
+    },
+    {
+      "id": 8,
+      "title": "Superbad",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+      "genre": "Comedy",
+      "score": 4.7
+    },
+    {
+      "id": 9,
+      "title": "The Conjuring",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "genre": "Horror",
+      "score": 5
+    },
+    {
+      "id": 10,
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham",
+      "genre": "Action" ,
+      "score": 4.5
+    },
+    {
+      "id": 11,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+      "genre": "Crime",
+      "score": 4.8
+    },
+    {
+      "id": 12,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency",
+      "genre": "Drama",
+      "score": 4.8
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Drama"
+    },
+    {
+      "id": 2,
+      "name": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Crime"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 5,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Fiction"
+    }
+  ]
+}
+
+
+
